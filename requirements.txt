@@ -1,0 +1,24 @@
+# ── Web Framework ─────────────────────────────────────────────────────────────
+fastapi
+uvicorn[standard]
+python-multipart
+
+# ── LLM & Agent ───────────────────────────────────────────────────────────────
+groq
+langchain
+langchain-core
+langchain-groq
+langgraph
+
+# ── Vector DB / Memory ────────────────────────────────────────────────────────
+chromadb
+
+# ── Tools ─────────────────────────────────────────────────────────────────────
+tavily-python
+requests
+pandas
+
+# ── Config ────────────────────────────────────────────────────────────────────
+python-dotenv
+pydantic-settings
+pydantic
